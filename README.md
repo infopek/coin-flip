@@ -1,0 +1,1 @@
+Run the program to get either "Heads" or "Tails", both have a probabilty of 0.5.
